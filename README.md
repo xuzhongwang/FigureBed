@@ -2,7 +2,7 @@
 图床
     "github": {
       "repo": "xuzhongwang/FigureBed",
-      "token": "90c72d8e2cc8dce8a1c7e6d508c81130e73b4eaa",
+      "token": "8596003f9340f92c09591d05fe235d6c7b1ad23c",
       "path": "img/",
       "customUrl": "https://raw.githubusercontent.com/xuzhongwang/FigureBed/master",
       "branch": "master"
